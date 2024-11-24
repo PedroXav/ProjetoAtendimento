@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pxo20\\OneDrive\\Documentos\\prof Aurelio\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44E5FE08-C977-4F76-A0B1-59104A032204}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\pxo20\\onedrive\\documentos\\prof aurelio\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E5FE08-C977-4F76-A0B1-59104A032204}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E5FE08-C977-4F76-A0B1-59104A032204}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\pxo20\\onedrive\\documentos\\prof aurelio\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44E5FE08-C977-4F76-A0B1-59104A032204}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E5FE08-C977-4F76-A0B1-59104A032204}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\pxo20\\onedrive\\documentos\\prof aurelio\\windowsformsapp1\\windowsformsapp1\\senhas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E5FE08-C977-4F76-A0B1-59104A032204}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\senhas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E5FE08-C977-4F76-A0B1-59104A032204}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\pxo20\\onedrive\\documentos\\prof aurelio\\windowsformsapp1\\windowsformsapp1\\senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E5FE08-C977-4F76-A0B1-59104A032204}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E5FE08-C977-4F76-A0B1-59104A032204}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\pxo20\\onedrive\\documentos\\prof aurelio\\windowsformsapp1\\windowsformsapp1\\guiches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E5FE08-C977-4F76-A0B1-59104A032204}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\guiches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E5FE08-C977-4F76-A0B1-59104A032204}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\pxo20\\onedrive\\documentos\\prof aurelio\\windowsformsapp1\\windowsformsapp1\\guiche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E5FE08-C977-4F76-A0B1-59104A032204}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\guiche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Senhas.cs",
+              "DocumentMoniker": "C:\\Users\\pxo20\\OneDrive\\Documentos\\prof Aurelio\\WindowsFormsApp1\\WindowsFormsApp1\\Senhas.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Senhas.cs",
+              "ToolTip": "C:\\Users\\pxo20\\OneDrive\\Documentos\\prof Aurelio\\WindowsFormsApp1\\WindowsFormsApp1\\Senhas.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Senhas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:48:04.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Senha.cs",
+              "DocumentMoniker": "C:\\Users\\pxo20\\OneDrive\\Documentos\\prof Aurelio\\WindowsFormsApp1\\WindowsFormsApp1\\Senha.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Senha.cs",
+              "ToolTip": "C:\\Users\\pxo20\\OneDrive\\Documentos\\prof Aurelio\\WindowsFormsApp1\\WindowsFormsApp1\\Senha.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Senha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:47:32.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Guiches.cs",
+              "DocumentMoniker": "C:\\Users\\pxo20\\OneDrive\\Documentos\\prof Aurelio\\WindowsFormsApp1\\WindowsFormsApp1\\Guiches.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Guiches.cs",
+              "ToolTip": "C:\\Users\\pxo20\\OneDrive\\Documentos\\prof Aurelio\\WindowsFormsApp1\\WindowsFormsApp1\\Guiches.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Guiches.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:46:02.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Guiche.cs",
+              "DocumentMoniker": "C:\\Users\\pxo20\\OneDrive\\Documentos\\prof Aurelio\\WindowsFormsApp1\\WindowsFormsApp1\\Guiche.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Guiche.cs",
+              "ToolTip": "C:\\Users\\pxo20\\OneDrive\\Documentos\\prof Aurelio\\WindowsFormsApp1\\WindowsFormsApp1\\Guiche.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Guiche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:45:00.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pxo20\\OneDrive\\Documentos\\prof Aurelio\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\pxo20\\OneDrive\\Documentos\\prof Aurelio\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:43:36.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pxo20\\OneDrive\\Documentos\\prof Aurelio\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\pxo20\\OneDrive\\Documentos\\prof Aurelio\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:41:09.003Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
